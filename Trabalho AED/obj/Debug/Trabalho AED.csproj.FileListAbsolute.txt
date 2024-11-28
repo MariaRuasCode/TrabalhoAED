@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe.config
+C:\Users\Gabriela\source\repos\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.exe
+C:\Users\Gabriela\source\repos\Trabalho AED\Trabalho AED\bin\Debug\Trabalho AED.pdb
+C:\Users\Gabriela\source\repos\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csproj.AssemblyReference.cache
+C:\Users\Gabriela\source\repos\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.exe
+C:\Users\Gabriela\source\repos\Trabalho AED\Trabalho AED\obj\Debug\Trabalho AED.pdb
